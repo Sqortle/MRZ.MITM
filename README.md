@@ -40,3 +40,7 @@ pip install scapy
   echo 1 | sudo tee /proc/sys/net/ipv4/ip_forward
   ```
 - You can stop the attack anytime with `CTRL+C`.
+
+## 🧠 Analysis
+
+- `sudo python3 analysis.py` for anlaysis your attack
