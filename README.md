@@ -15,7 +15,7 @@ sudo python3 spoof.py <target_ip> <router_ip>
 ```
 
 Example:
-```bash
+```bash 
 sudo python3 spoof.py 192.168.0.104 192.168.0.1
 ```
 
